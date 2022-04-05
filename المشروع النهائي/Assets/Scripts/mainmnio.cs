@@ -14,4 +14,8 @@ public class mainmnio : MonoBehaviour
     {
         Application.Quit();
     }
+    public void Gamreover() 
+    {
+        SceneManager.LoadScene(1);
+    }
 }

@@ -537,7 +537,7 @@ RectTransform:
   m_GameObject: {fileID: 922988491}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.6875, y: 1.7626, z: 1}
   m_Children:
   - {fileID: 721193963}
   m_Father: {fileID: 655456450}
@@ -545,7 +545,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -3.0842, y: -263.84998}
+  m_AnchoredPosition: {x: -3.0842, y: -466}
   m_SizeDelta: {x: 216.4656, y: 65.9327}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &922988493
@@ -594,7 +594,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 922988496}
         m_TargetAssemblyTypeName: mainmnio, Assembly-CSharp
-        m_MethodName: PlayGame
+        m_MethodName: Gamreover
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
